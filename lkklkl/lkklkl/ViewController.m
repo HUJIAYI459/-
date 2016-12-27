@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    看看姐姐拉进来了空间看就看；
+    
+    
+    lmkklnnmkl
+    
 }
 
 - (void)didReceiveMemoryWarning {
